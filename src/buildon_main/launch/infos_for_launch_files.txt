@@ -1,0 +1,9 @@
+01_olaf_to_rviz:
+- Zeigt das Roboter Model in Rviz 
+
+
+02_olaf_to_gazebo.launch
+- Zeigt Roboter in Gazebo 
+
+03:
+startet roboter mit rviz, gazebo und steering

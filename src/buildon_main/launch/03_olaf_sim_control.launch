@@ -1,0 +1,15 @@
+<launch>
+
+  <arg name="model" default="$(find buildon_main)/urdf/olaf_copy.urdf"/>
+  <arg name="rvizconfig" default="$(find buildon_main)/rviz/urdf.rviz" />
+  <param name="robot_description" command="$(find xacro)/xacro $(arg model)" />
+  <node name="robot_state_publisher" pkg="robot_state_publisher" type="robot_state_publisher" />
+
+  <node name="rviz" pkg="rviz" type="rviz" args="-d $(arg rvizconfig)" required="true" />
+  <include file="$(find gazebo_ros)/launch/empty_world.launch">
+    <arg name="world_name" value="worlds/shapes.world"/>
+  </include>
+  <node name="spawn_urdf" pkg="gazebo_ros" type="spawn_model" args="-param robot_description -urdf -x 2 -model Olaf" />
+  <node name="rqt_robot_steering" pkg="rqt_robot_steering" type="rqt_robot_steering"/>
+  
+</launch>
