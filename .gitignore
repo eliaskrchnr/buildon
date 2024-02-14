@@ -3,3 +3,5 @@ devel
 CMakeLists.txt
 .catkin_workspace
 .vscode
+src/ydlidar_ros_driver
+src/YDLidar-SDK
