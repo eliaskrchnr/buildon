@@ -6,4 +6,4 @@
 # testing this directory and lists subdirectories to be tested as well.
 subdirs("gtest")
 subdirs("buildon_main")
-subdirs("ydlidar_ws/src/ydlidar_ros_driver")
+subdirs("ydlidar_ros_driver")

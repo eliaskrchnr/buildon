@@ -1,2 +1,2 @@
-buildon_main:ydlidar_ws/src/ydlidar_ros_driver
+buildon_main:ydlidar_ros_driver
 -DCATKIN_DEVEL_PREFIX=/home/elias/Bachelorarbeit/buildon_ws/devel -DCMAKE_INSTALL_PREFIX=/home/elias/Bachelorarbeit/buildon_ws/install -G Unix Makefiles

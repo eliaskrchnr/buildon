@@ -307,7 +307,7 @@ rosgraph_msgs_generate_messages_py: cmake_check_build_system
 
 # fast build rule for target.
 rosgraph_msgs_generate_messages_py/fast:
-	$(MAKE) -f ydlidar_ws/src/ydlidar_ros_driver/CMakeFiles/rosgraph_msgs_generate_messages_py.dir/build.make ydlidar_ws/src/ydlidar_ros_driver/CMakeFiles/rosgraph_msgs_generate_messages_py.dir/build
+	$(MAKE) -f ydlidar_ros_driver/CMakeFiles/rosgraph_msgs_generate_messages_py.dir/build.make ydlidar_ros_driver/CMakeFiles/rosgraph_msgs_generate_messages_py.dir/build
 .PHONY : rosgraph_msgs_generate_messages_py/fast
 
 #=============================================================================
@@ -320,7 +320,7 @@ roscpp_generate_messages_lisp: cmake_check_build_system
 
 # fast build rule for target.
 roscpp_generate_messages_lisp/fast:
-	$(MAKE) -f ydlidar_ws/src/ydlidar_ros_driver/CMakeFiles/roscpp_generate_messages_lisp.dir/build.make ydlidar_ws/src/ydlidar_ros_driver/CMakeFiles/roscpp_generate_messages_lisp.dir/build
+	$(MAKE) -f ydlidar_ros_driver/CMakeFiles/roscpp_generate_messages_lisp.dir/build.make ydlidar_ros_driver/CMakeFiles/roscpp_generate_messages_lisp.dir/build
 .PHONY : roscpp_generate_messages_lisp/fast
 
 #=============================================================================
@@ -333,7 +333,7 @@ geometry_msgs_generate_messages_cpp: cmake_check_build_system
 
 # fast build rule for target.
 geometry_msgs_generate_messages_cpp/fast:
-	$(MAKE) -f ydlidar_ws/src/ydlidar_ros_driver/CMakeFiles/geometry_msgs_generate_messages_cpp.dir/build.make ydlidar_ws/src/ydlidar_ros_driver/CMakeFiles/geometry_msgs_generate_messages_cpp.dir/build
+	$(MAKE) -f ydlidar_ros_driver/CMakeFiles/geometry_msgs_generate_messages_cpp.dir/build.make ydlidar_ros_driver/CMakeFiles/geometry_msgs_generate_messages_cpp.dir/build
 .PHONY : geometry_msgs_generate_messages_cpp/fast
 
 #=============================================================================
@@ -346,7 +346,7 @@ geometry_msgs_generate_messages_nodejs: cmake_check_build_system
 
 # fast build rule for target.
 geometry_msgs_generate_messages_nodejs/fast:
-	$(MAKE) -f ydlidar_ws/src/ydlidar_ros_driver/CMakeFiles/geometry_msgs_generate_messages_nodejs.dir/build.make ydlidar_ws/src/ydlidar_ros_driver/CMakeFiles/geometry_msgs_generate_messages_nodejs.dir/build
+	$(MAKE) -f ydlidar_ros_driver/CMakeFiles/geometry_msgs_generate_messages_nodejs.dir/build.make ydlidar_ros_driver/CMakeFiles/geometry_msgs_generate_messages_nodejs.dir/build
 .PHONY : geometry_msgs_generate_messages_nodejs/fast
 
 #=============================================================================
@@ -359,7 +359,7 @@ rosgraph_msgs_generate_messages_lisp: cmake_check_build_system
 
 # fast build rule for target.
 rosgraph_msgs_generate_messages_lisp/fast:
-	$(MAKE) -f ydlidar_ws/src/ydlidar_ros_driver/CMakeFiles/rosgraph_msgs_generate_messages_lisp.dir/build.make ydlidar_ws/src/ydlidar_ros_driver/CMakeFiles/rosgraph_msgs_generate_messages_lisp.dir/build
+	$(MAKE) -f ydlidar_ros_driver/CMakeFiles/rosgraph_msgs_generate_messages_lisp.dir/build.make ydlidar_ros_driver/CMakeFiles/rosgraph_msgs_generate_messages_lisp.dir/build
 .PHONY : rosgraph_msgs_generate_messages_lisp/fast
 
 #=============================================================================
@@ -372,7 +372,7 @@ rosgraph_msgs_generate_messages_eus: cmake_check_build_system
 
 # fast build rule for target.
 rosgraph_msgs_generate_messages_eus/fast:
-	$(MAKE) -f ydlidar_ws/src/ydlidar_ros_driver/CMakeFiles/rosgraph_msgs_generate_messages_eus.dir/build.make ydlidar_ws/src/ydlidar_ros_driver/CMakeFiles/rosgraph_msgs_generate_messages_eus.dir/build
+	$(MAKE) -f ydlidar_ros_driver/CMakeFiles/rosgraph_msgs_generate_messages_eus.dir/build.make ydlidar_ros_driver/CMakeFiles/rosgraph_msgs_generate_messages_eus.dir/build
 .PHONY : rosgraph_msgs_generate_messages_eus/fast
 
 #=============================================================================
@@ -385,7 +385,7 @@ std_msgs_generate_messages_cpp: cmake_check_build_system
 
 # fast build rule for target.
 std_msgs_generate_messages_cpp/fast:
-	$(MAKE) -f ydlidar_ws/src/ydlidar_ros_driver/CMakeFiles/std_msgs_generate_messages_cpp.dir/build.make ydlidar_ws/src/ydlidar_ros_driver/CMakeFiles/std_msgs_generate_messages_cpp.dir/build
+	$(MAKE) -f ydlidar_ros_driver/CMakeFiles/std_msgs_generate_messages_cpp.dir/build.make ydlidar_ros_driver/CMakeFiles/std_msgs_generate_messages_cpp.dir/build
 .PHONY : std_msgs_generate_messages_cpp/fast
 
 #=============================================================================
@@ -398,7 +398,7 @@ roscpp_generate_messages_nodejs: cmake_check_build_system
 
 # fast build rule for target.
 roscpp_generate_messages_nodejs/fast:
-	$(MAKE) -f ydlidar_ws/src/ydlidar_ros_driver/CMakeFiles/roscpp_generate_messages_nodejs.dir/build.make ydlidar_ws/src/ydlidar_ros_driver/CMakeFiles/roscpp_generate_messages_nodejs.dir/build
+	$(MAKE) -f ydlidar_ros_driver/CMakeFiles/roscpp_generate_messages_nodejs.dir/build.make ydlidar_ros_driver/CMakeFiles/roscpp_generate_messages_nodejs.dir/build
 .PHONY : roscpp_generate_messages_nodejs/fast
 
 #=============================================================================
@@ -411,7 +411,7 @@ std_msgs_generate_messages_eus: cmake_check_build_system
 
 # fast build rule for target.
 std_msgs_generate_messages_eus/fast:
-	$(MAKE) -f ydlidar_ws/src/ydlidar_ros_driver/CMakeFiles/std_msgs_generate_messages_eus.dir/build.make ydlidar_ws/src/ydlidar_ros_driver/CMakeFiles/std_msgs_generate_messages_eus.dir/build
+	$(MAKE) -f ydlidar_ros_driver/CMakeFiles/std_msgs_generate_messages_eus.dir/build.make ydlidar_ros_driver/CMakeFiles/std_msgs_generate_messages_eus.dir/build
 .PHONY : std_msgs_generate_messages_eus/fast
 
 #=============================================================================
@@ -424,7 +424,7 @@ geometry_msgs_generate_messages_lisp: cmake_check_build_system
 
 # fast build rule for target.
 geometry_msgs_generate_messages_lisp/fast:
-	$(MAKE) -f ydlidar_ws/src/ydlidar_ros_driver/CMakeFiles/geometry_msgs_generate_messages_lisp.dir/build.make ydlidar_ws/src/ydlidar_ros_driver/CMakeFiles/geometry_msgs_generate_messages_lisp.dir/build
+	$(MAKE) -f ydlidar_ros_driver/CMakeFiles/geometry_msgs_generate_messages_lisp.dir/build.make ydlidar_ros_driver/CMakeFiles/geometry_msgs_generate_messages_lisp.dir/build
 .PHONY : geometry_msgs_generate_messages_lisp/fast
 
 #=============================================================================
@@ -437,7 +437,7 @@ roscpp_generate_messages_py: cmake_check_build_system
 
 # fast build rule for target.
 roscpp_generate_messages_py/fast:
-	$(MAKE) -f ydlidar_ws/src/ydlidar_ros_driver/CMakeFiles/roscpp_generate_messages_py.dir/build.make ydlidar_ws/src/ydlidar_ros_driver/CMakeFiles/roscpp_generate_messages_py.dir/build
+	$(MAKE) -f ydlidar_ros_driver/CMakeFiles/roscpp_generate_messages_py.dir/build.make ydlidar_ros_driver/CMakeFiles/roscpp_generate_messages_py.dir/build
 .PHONY : roscpp_generate_messages_py/fast
 
 #=============================================================================
@@ -450,7 +450,7 @@ std_msgs_generate_messages_lisp: cmake_check_build_system
 
 # fast build rule for target.
 std_msgs_generate_messages_lisp/fast:
-	$(MAKE) -f ydlidar_ws/src/ydlidar_ros_driver/CMakeFiles/std_msgs_generate_messages_lisp.dir/build.make ydlidar_ws/src/ydlidar_ros_driver/CMakeFiles/std_msgs_generate_messages_lisp.dir/build
+	$(MAKE) -f ydlidar_ros_driver/CMakeFiles/std_msgs_generate_messages_lisp.dir/build.make ydlidar_ros_driver/CMakeFiles/std_msgs_generate_messages_lisp.dir/build
 .PHONY : std_msgs_generate_messages_lisp/fast
 
 #=============================================================================
@@ -463,7 +463,7 @@ rosgraph_msgs_generate_messages_nodejs: cmake_check_build_system
 
 # fast build rule for target.
 rosgraph_msgs_generate_messages_nodejs/fast:
-	$(MAKE) -f ydlidar_ws/src/ydlidar_ros_driver/CMakeFiles/rosgraph_msgs_generate_messages_nodejs.dir/build.make ydlidar_ws/src/ydlidar_ros_driver/CMakeFiles/rosgraph_msgs_generate_messages_nodejs.dir/build
+	$(MAKE) -f ydlidar_ros_driver/CMakeFiles/rosgraph_msgs_generate_messages_nodejs.dir/build.make ydlidar_ros_driver/CMakeFiles/rosgraph_msgs_generate_messages_nodejs.dir/build
 .PHONY : rosgraph_msgs_generate_messages_nodejs/fast
 
 #=============================================================================
@@ -476,7 +476,7 @@ sensor_msgs_generate_messages_eus: cmake_check_build_system
 
 # fast build rule for target.
 sensor_msgs_generate_messages_eus/fast:
-	$(MAKE) -f ydlidar_ws/src/ydlidar_ros_driver/CMakeFiles/sensor_msgs_generate_messages_eus.dir/build.make ydlidar_ws/src/ydlidar_ros_driver/CMakeFiles/sensor_msgs_generate_messages_eus.dir/build
+	$(MAKE) -f ydlidar_ros_driver/CMakeFiles/sensor_msgs_generate_messages_eus.dir/build.make ydlidar_ros_driver/CMakeFiles/sensor_msgs_generate_messages_eus.dir/build
 .PHONY : sensor_msgs_generate_messages_eus/fast
 
 #=============================================================================
@@ -489,7 +489,7 @@ roscpp_generate_messages_cpp: cmake_check_build_system
 
 # fast build rule for target.
 roscpp_generate_messages_cpp/fast:
-	$(MAKE) -f ydlidar_ws/src/ydlidar_ros_driver/CMakeFiles/roscpp_generate_messages_cpp.dir/build.make ydlidar_ws/src/ydlidar_ros_driver/CMakeFiles/roscpp_generate_messages_cpp.dir/build
+	$(MAKE) -f ydlidar_ros_driver/CMakeFiles/roscpp_generate_messages_cpp.dir/build.make ydlidar_ros_driver/CMakeFiles/roscpp_generate_messages_cpp.dir/build
 .PHONY : roscpp_generate_messages_cpp/fast
 
 #=============================================================================
@@ -502,7 +502,7 @@ sensor_msgs_generate_messages_lisp: cmake_check_build_system
 
 # fast build rule for target.
 sensor_msgs_generate_messages_lisp/fast:
-	$(MAKE) -f ydlidar_ws/src/ydlidar_ros_driver/CMakeFiles/sensor_msgs_generate_messages_lisp.dir/build.make ydlidar_ws/src/ydlidar_ros_driver/CMakeFiles/sensor_msgs_generate_messages_lisp.dir/build
+	$(MAKE) -f ydlidar_ros_driver/CMakeFiles/sensor_msgs_generate_messages_lisp.dir/build.make ydlidar_ros_driver/CMakeFiles/sensor_msgs_generate_messages_lisp.dir/build
 .PHONY : sensor_msgs_generate_messages_lisp/fast
 
 #=============================================================================
@@ -515,7 +515,7 @@ sensor_msgs_generate_messages_nodejs: cmake_check_build_system
 
 # fast build rule for target.
 sensor_msgs_generate_messages_nodejs/fast:
-	$(MAKE) -f ydlidar_ws/src/ydlidar_ros_driver/CMakeFiles/sensor_msgs_generate_messages_nodejs.dir/build.make ydlidar_ws/src/ydlidar_ros_driver/CMakeFiles/sensor_msgs_generate_messages_nodejs.dir/build
+	$(MAKE) -f ydlidar_ros_driver/CMakeFiles/sensor_msgs_generate_messages_nodejs.dir/build.make ydlidar_ros_driver/CMakeFiles/sensor_msgs_generate_messages_nodejs.dir/build
 .PHONY : sensor_msgs_generate_messages_nodejs/fast
 
 #=============================================================================
@@ -528,7 +528,7 @@ sensor_msgs_generate_messages_py: cmake_check_build_system
 
 # fast build rule for target.
 sensor_msgs_generate_messages_py/fast:
-	$(MAKE) -f ydlidar_ws/src/ydlidar_ros_driver/CMakeFiles/sensor_msgs_generate_messages_py.dir/build.make ydlidar_ws/src/ydlidar_ros_driver/CMakeFiles/sensor_msgs_generate_messages_py.dir/build
+	$(MAKE) -f ydlidar_ros_driver/CMakeFiles/sensor_msgs_generate_messages_py.dir/build.make ydlidar_ros_driver/CMakeFiles/sensor_msgs_generate_messages_py.dir/build
 .PHONY : sensor_msgs_generate_messages_py/fast
 
 #=============================================================================
@@ -541,7 +541,7 @@ geometry_msgs_generate_messages_py: cmake_check_build_system
 
 # fast build rule for target.
 geometry_msgs_generate_messages_py/fast:
-	$(MAKE) -f ydlidar_ws/src/ydlidar_ros_driver/CMakeFiles/geometry_msgs_generate_messages_py.dir/build.make ydlidar_ws/src/ydlidar_ros_driver/CMakeFiles/geometry_msgs_generate_messages_py.dir/build
+	$(MAKE) -f ydlidar_ros_driver/CMakeFiles/geometry_msgs_generate_messages_py.dir/build.make ydlidar_ros_driver/CMakeFiles/geometry_msgs_generate_messages_py.dir/build
 .PHONY : geometry_msgs_generate_messages_py/fast
 
 #=============================================================================
@@ -554,7 +554,7 @@ std_msgs_generate_messages_py: cmake_check_build_system
 
 # fast build rule for target.
 std_msgs_generate_messages_py/fast:
-	$(MAKE) -f ydlidar_ws/src/ydlidar_ros_driver/CMakeFiles/std_msgs_generate_messages_py.dir/build.make ydlidar_ws/src/ydlidar_ros_driver/CMakeFiles/std_msgs_generate_messages_py.dir/build
+	$(MAKE) -f ydlidar_ros_driver/CMakeFiles/std_msgs_generate_messages_py.dir/build.make ydlidar_ros_driver/CMakeFiles/std_msgs_generate_messages_py.dir/build
 .PHONY : std_msgs_generate_messages_py/fast
 
 #=============================================================================
@@ -567,7 +567,7 @@ sensor_msgs_generate_messages_cpp: cmake_check_build_system
 
 # fast build rule for target.
 sensor_msgs_generate_messages_cpp/fast:
-	$(MAKE) -f ydlidar_ws/src/ydlidar_ros_driver/CMakeFiles/sensor_msgs_generate_messages_cpp.dir/build.make ydlidar_ws/src/ydlidar_ros_driver/CMakeFiles/sensor_msgs_generate_messages_cpp.dir/build
+	$(MAKE) -f ydlidar_ros_driver/CMakeFiles/sensor_msgs_generate_messages_cpp.dir/build.make ydlidar_ros_driver/CMakeFiles/sensor_msgs_generate_messages_cpp.dir/build
 .PHONY : sensor_msgs_generate_messages_cpp/fast
 
 #=============================================================================
@@ -580,7 +580,7 @@ std_msgs_generate_messages_nodejs: cmake_check_build_system
 
 # fast build rule for target.
 std_msgs_generate_messages_nodejs/fast:
-	$(MAKE) -f ydlidar_ws/src/ydlidar_ros_driver/CMakeFiles/std_msgs_generate_messages_nodejs.dir/build.make ydlidar_ws/src/ydlidar_ros_driver/CMakeFiles/std_msgs_generate_messages_nodejs.dir/build
+	$(MAKE) -f ydlidar_ros_driver/CMakeFiles/std_msgs_generate_messages_nodejs.dir/build.make ydlidar_ros_driver/CMakeFiles/std_msgs_generate_messages_nodejs.dir/build
 .PHONY : std_msgs_generate_messages_nodejs/fast
 
 #=============================================================================
@@ -593,7 +593,7 @@ geometry_msgs_generate_messages_eus: cmake_check_build_system
 
 # fast build rule for target.
 geometry_msgs_generate_messages_eus/fast:
-	$(MAKE) -f ydlidar_ws/src/ydlidar_ros_driver/CMakeFiles/geometry_msgs_generate_messages_eus.dir/build.make ydlidar_ws/src/ydlidar_ros_driver/CMakeFiles/geometry_msgs_generate_messages_eus.dir/build
+	$(MAKE) -f ydlidar_ros_driver/CMakeFiles/geometry_msgs_generate_messages_eus.dir/build.make ydlidar_ros_driver/CMakeFiles/geometry_msgs_generate_messages_eus.dir/build
 .PHONY : geometry_msgs_generate_messages_eus/fast
 
 #=============================================================================
@@ -606,7 +606,7 @@ ydlidar_ros_driver_node: cmake_check_build_system
 
 # fast build rule for target.
 ydlidar_ros_driver_node/fast:
-	$(MAKE) -f ydlidar_ws/src/ydlidar_ros_driver/CMakeFiles/ydlidar_ros_driver_node.dir/build.make ydlidar_ws/src/ydlidar_ros_driver/CMakeFiles/ydlidar_ros_driver_node.dir/build
+	$(MAKE) -f ydlidar_ros_driver/CMakeFiles/ydlidar_ros_driver_node.dir/build.make ydlidar_ros_driver/CMakeFiles/ydlidar_ros_driver_node.dir/build
 .PHONY : ydlidar_ros_driver_node/fast
 
 #=============================================================================
@@ -619,7 +619,7 @@ rosgraph_msgs_generate_messages_cpp: cmake_check_build_system
 
 # fast build rule for target.
 rosgraph_msgs_generate_messages_cpp/fast:
-	$(MAKE) -f ydlidar_ws/src/ydlidar_ros_driver/CMakeFiles/rosgraph_msgs_generate_messages_cpp.dir/build.make ydlidar_ws/src/ydlidar_ros_driver/CMakeFiles/rosgraph_msgs_generate_messages_cpp.dir/build
+	$(MAKE) -f ydlidar_ros_driver/CMakeFiles/rosgraph_msgs_generate_messages_cpp.dir/build.make ydlidar_ros_driver/CMakeFiles/rosgraph_msgs_generate_messages_cpp.dir/build
 .PHONY : rosgraph_msgs_generate_messages_cpp/fast
 
 #=============================================================================
@@ -632,7 +632,7 @@ roscpp_generate_messages_eus: cmake_check_build_system
 
 # fast build rule for target.
 roscpp_generate_messages_eus/fast:
-	$(MAKE) -f ydlidar_ws/src/ydlidar_ros_driver/CMakeFiles/roscpp_generate_messages_eus.dir/build.make ydlidar_ws/src/ydlidar_ros_driver/CMakeFiles/roscpp_generate_messages_eus.dir/build
+	$(MAKE) -f ydlidar_ros_driver/CMakeFiles/roscpp_generate_messages_eus.dir/build.make ydlidar_ros_driver/CMakeFiles/roscpp_generate_messages_eus.dir/build
 .PHONY : roscpp_generate_messages_eus/fast
 
 # Help Target

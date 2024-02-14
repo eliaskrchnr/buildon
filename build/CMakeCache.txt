@@ -512,10 +512,10 @@ std_msgs_DIR:PATH=/opt/ros/noetic/share/std_msgs/cmake
 xmlrpcpp_DIR:PATH=/opt/ros/noetic/share/xmlrpcpp/cmake
 
 //Value Computed by CMake
-ydlidar_ros_driver_BINARY_DIR:STATIC=/home/elias/Bachelorarbeit/buildon_ws/build/ydlidar_ws/src/ydlidar_ros_driver
+ydlidar_ros_driver_BINARY_DIR:STATIC=/home/elias/Bachelorarbeit/buildon_ws/build/ydlidar_ros_driver
 
 //Value Computed by CMake
-ydlidar_ros_driver_SOURCE_DIR:STATIC=/home/elias/Bachelorarbeit/buildon_ws/src/ydlidar_ws/src/ydlidar_ros_driver
+ydlidar_ros_driver_SOURCE_DIR:STATIC=/home/elias/Bachelorarbeit/buildon_ws/src/ydlidar_ros_driver
 
 //The directory containing a CMake configuration file for ydlidar_sdk.
 ydlidar_sdk_DIR:PATH=/usr/local/lib/cmake/ydlidar_sdk

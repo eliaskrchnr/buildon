@@ -132,7 +132,7 @@ if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
   include("/home/elias/Bachelorarbeit/buildon_ws/build/gtest/cmake_install.cmake")
   include("/home/elias/Bachelorarbeit/buildon_ws/build/buildon_main/cmake_install.cmake")
-  include("/home/elias/Bachelorarbeit/buildon_ws/build/ydlidar_ws/src/ydlidar_ros_driver/cmake_install.cmake")
+  include("/home/elias/Bachelorarbeit/buildon_ws/build/ydlidar_ros_driver/cmake_install.cmake")
 
 endif()
 
