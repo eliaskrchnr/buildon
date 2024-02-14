@@ -1,6 +1,6 @@
 <launch>
 
-  <arg name="model" default="$(find buildon_main)/urdf/olaf_copy.urdf"/>
+  <arg name="model" default="$(find buildon_main)/urdf/olaf.urdf"/>
   <arg name="gui" default="true" />
   <arg name="rvizconfig" default="$(find buildon_main)/rviz/urdf.rviz" />
 
