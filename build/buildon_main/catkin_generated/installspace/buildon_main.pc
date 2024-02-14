@@ -1,8 +1,0 @@
-prefix=/home/elias/Bachelorarbeit/buildon_ws/install
-
-Name: buildon_main
-Description: Description of buildon_main
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 
